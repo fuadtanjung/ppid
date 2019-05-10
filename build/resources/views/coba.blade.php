@@ -1,0 +1,1 @@
+{{ $permintaan->info_diminta }}
